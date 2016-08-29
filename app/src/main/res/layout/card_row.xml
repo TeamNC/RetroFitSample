@@ -20,7 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textStyle="bold"
-            android:text="MY TV NAME"/>
+            android:text="TV NAME"/>
         <TextView
             android:id="@+id/tv_version"
             android:layout_width="wrap_content"
